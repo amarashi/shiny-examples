@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice">Hi Nichole! There are some pices of pizza left in the fridge. Feel free to have them! Enjoy!</Say>
+#<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
